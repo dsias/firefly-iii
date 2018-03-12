@@ -102,6 +102,7 @@ return [
     'list_length'    => 10,
     'export_formats' => [
         'csv' => 'FireflyIII\Export\Exporter\CsvExporter',
+	'xml' => 'FireflyIII\Export\Exporter\XmlExporter',
     ],
     'spectre'        => [
         'server' => 'https://www.saltedge.com',

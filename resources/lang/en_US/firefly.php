@@ -224,6 +224,7 @@ return [
     'export_data_intro'                          => 'Use the exported data to move to a new financial application. Please note that these files are not meant as a backup. They do not contain enough meta-data to fully restore a new Firefly III installation. If you want to make a backup of your data, please backup the database directly.',
     'export_format'                              => 'Export format',
     'export_format_csv'                          => 'Comma separated values (CSV file)',
+    'export_format_xml'                          => 'Extensible Markup Language (XML file)',
     'export_format_mt940'                        => 'MT940 compatible format',
     'include_old_uploads_help'                   => 'Firefly III does not throw away the original CSV files you have imported in the past. You can include them in your export.',
     'do_export'                                  => 'Export',
